@@ -1,6 +1,5 @@
 {
   "private": true,
-  "main": "math.js",
   "scripts": {
     "lint": "eslint .",
     "test": "npm run lint && mocha --exit test"
